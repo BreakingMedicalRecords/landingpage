@@ -316,8 +316,10 @@ footer {
     }
     
     section {
-        min-height: 600px;
-        padding: 100px 0;
+        min-height: 400px;
+        padding: 25px 0;
+        margin-top: 25px;
+        margin-bottom: 25px;
     }
 
 }
